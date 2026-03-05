@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hi, I'm Yancy a passionate and funny developer, with a keen interest on new software and electric products. I love to build stuff to solve the real problems in my life and sometimes just for fun.
+
+🔭 I’m currently working on Agentic system developing
 <!--
 **ehowang/ehowang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
