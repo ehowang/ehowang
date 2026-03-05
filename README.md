@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Hi, I'm Nancy 👋 A passionate (and occasionally funny) developer with a love for cutting-edge software and electric products. I build things that solve real problems — and sometimes just because I can.
+
 🔭 Currently deep in the world of Agentic Systems.
 <!--
 **ehowang/ehowang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
